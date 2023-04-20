@@ -1,15 +1,15 @@
 {
   "expo": {
-    "name": "FoodSellApp",
-    "slug": "FoodSellApp",
+    "name": "EatMe",
+    "slug": "EatMe",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/icons/App_Logo.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "image": "./assets/icons/logo_01.png",
+      "resizeMode": "native",
+      "backgroundColor": "#F5F5F6"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -22,9 +22,10 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      }
+        "foregroundImage": "./assets/icons/App_Logo.png",
+        "backgroundColor": "#fc6c44"
+      },
+      "package": "com.chronstorm.FoodSellApp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
