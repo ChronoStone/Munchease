@@ -11,6 +11,6 @@ Food Selling Managament React native Mobile application
 | --- | --- | --- |
 | ![App Screenshot](https://github.com/ChronoStone/Munchease/blob/main/App%20Screens/04.jpg?raw=true) | ![App Screenshot](https://github.com/ChronoStone/Munchease/blob/main/App%20Screens/06.jpg?raw=true) | ![App Screenshot](https://github.com/ChronoStone/Munchease/blob/main/App%20Screens/09.jpg?raw=true) |
 
-| Empty Cart | Order Options | Completed Order |
+| Empty Cart | Order Options | Order completed |
 | --- | --- | --- |
-| ![App Screenshot](https://github.com/ChronoStone/Munchease/blob/main/App%20Screens/08.jpg?raw=true) | ![App Screenshot](https://github.com/ChronoStone/Munchease/blob/main/App%20Screens/07.jpg?raw=true) | ![App Screenshot](https://github.com/ChronoStone/Munchease/blob/main/App%20Screens/10.jpg?raw=true) |
+| ![App Screenshot](https://github.com/ChronoStone/Munchease/blob/main/App%20Screens/08.jpg) | ![App Screenshot](https://github.com/ChronoStone/Munchease/blob/main/App%20Screens/07.jpg) | ![App Screenshot](https://github.com/ChronoStone/Munchease/blob/main/App%20Screens/10.jpg) |
