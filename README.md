@@ -1,5 +1,5 @@
 # Munchease
-Food Selling Managament React native Mobile Expo application
+Food Selling Managament React native Expo Mobile application
 
 ## Screenshots
 
